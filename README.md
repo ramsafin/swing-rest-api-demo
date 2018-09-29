@@ -22,5 +22,6 @@ The server will be available on `http://localhost:3000/` (you can open this link
 
 - Build & Run the application:
 ```bash
-mvn clean package && java -jar target/<project-name>.jar
+mvn clean package
+java -jar target/<project-name>.jar
 ``` 
