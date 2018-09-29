@@ -1,0 +1,12 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Orange",
+      "price": 100,
+      "weight": 12,
+      "manufacturer": "Germany",
+      "category": "Fruit"
+    }
+  ]
+}
