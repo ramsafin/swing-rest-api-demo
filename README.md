@@ -1,4 +1,6 @@
-# Java Swing + REST Service Demo  
+# Java Swing + REST Service Demo
+
+This is only an old demo project for studying purposes.
 
 ## Prerequisites
 - Maven
